@@ -1,1 +1,3 @@
-"bruh"
+<?php  
+echo "Hello World"
+?>
